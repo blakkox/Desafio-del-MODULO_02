@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: #808080;
+}
+
+.titulo {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+.titulo .thin {
+    font-weight: lighter;
+    
+}
+
+#titulo2 {
+    font-size: 35px;
+}
+
+
+.cabecera {
+    width: 1024px;
+    margin: 0rem auto;
+    padding-bottom: 15rem;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+.container {
+    background-color: white;
+    font-size: larger;
+    
+}
+
+
+section article{
+    width: 1024px;
+    margin: 0rem auto;
+}
+
+footer {
+    width: 1024px;
+    margin: 0rem auto;
+    font-size: larger;
+
+} 
+
+
